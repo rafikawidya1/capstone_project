@@ -1,4 +1,4 @@
-# Perpustakaan Purwadhika
+## Perpustakaan Purwadhika
 
 Program peminjaman buku perpustakaan puwadhika dibuat dengan bahasa pemrograman Python, yang bertujuan untuk membantu masyarakat umum mencari, memodifikasi, menghapus dan menyimpan informasi selama aktif di perpustakaan.
 
