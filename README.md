@@ -1,14 +1,18 @@
 # Perpustakaan Purwadhika
 
-Program peminjaman buku perpustakaan purwadhika dibuat dengan bahasa pemrograman Python, yang bertujuan untuk membantu masyarakat umum mencari, memodifikasi, menghapus dan menyimpan informasi selama aktif di perpustakaan.
+Program peminjaman buku perpustakaan purwadhika dibuat dengan bahasa pemrograman Python, yang bertujuan untuk membantu masyarakat umum untuk mencari, memodifikasi, menghapus dan menyimpan informasi selama aktif di perpustakaan.
 
 ## Installation
 Untuk menginstal persyaratan dengan pip, jalankan:
 
-pip install -r requitment.txt
+    pip install -r requitment.txt
 
 ## Fitur CRUD
-Fitur Create, Read, Update, dan Delete (CRUD) merupakan fitur yang digunakan dalam pembuatan program perpustakaan (peminjaman buku). Masing-masing fungsi yang terdiri dari fungsi read untuk menampilkan data buku, fungsi create untuk menambahkan data buku, fungsi update untuk mengubah data buku dengan id buku, dan terakhir fungsi delete untuk menghapus data buku dengan id buku.
+Fitur Create, Read, Update, dan Delete (disingkat CRUD) adalah operasi dasar yang digunakan dalam sistem manajemen database (Database Management System) untuk mengelola data. Setiap fitur ini mewakili tindakan yang dapat dilakukan terhadap entitas data dalam suatu sistem.
+1. Create (Buat): Fitur ini digunakan untuk membuat atau menambahkan data baru ke dalam sistem.
+2. Read (Baca): Fitur ini digunakan untuk membaca atau mengambil data yang sudah ada dari sistem. 
+3. Update (Perbarui): Fitur ini digunakan untuk memperbarui atau mengubah data yang sudah ada dalam sistem. 
+4. Delete (Hapus): Fitur ini digunakan untuk menghapus data yang sudah ada dari sistem. 
 
 ## Quickstart Guide
 Collection Data Type yang digunakan berupa data list yang berada di dalam list. Berisi uniq key adalah ID buku dan kolom yang terdiri dari judul buku, penulis, kategori, dan stok buku.
